@@ -1,7 +1,6 @@
 ```md
 # 🗄️ Knowledge Repository
 
-```text
   ____            _   _            ____                    _          
  |  _ \ ___  __ _| |_| |__   ___  |  _ \ ___  ___ ___   __| | ___     
  | |_) / _ \/ _` | __| '_ \ / _ \ | |_) / _ \/ __/ _ \ / _` |/ _ \    
@@ -31,6 +30,6 @@ Information Security Engineer | SOC Analyst | Offensive Security Enthusiast
 
 ---
 
-> "_Security is a continuous battle; sharing knowledge is our greatest defense._"
+> "_A segurança é uma batalha constante; compartilhar conhecimento é a nossa defesa mais poderosa._"
 ```
 
