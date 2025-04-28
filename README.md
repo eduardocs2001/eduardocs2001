@@ -1,16 +1,36 @@
-## Hi there 👋
+```md
+# 🗄️ Knowledge Repository
 
-<!--
-**eduardocs2001/eduardocs2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+  ____            _   _            ____                    _          
+ |  _ \ ___  __ _| |_| |__   ___  |  _ \ ___  ___ ___   __| | ___     
+ | |_) / _ \/ _` | __| '_ \ / _ \ | |_) / _ \/ __/ _ \ / _` |/ _ \    
+ |  _ <  __/ (_| | |_| | | |  __/ |  _ <  __/ (_| (_) | (_| |  __/    
+ |_| \_\___|\__,_|\__|_| |_|\___| |_| \_\___|\___\___/ \__,_|\___|    
+                                                                       
+```
 
-Here are some ideas to get you started:
+**Eduardo Cezar da Silva**  
+Information Security Engineer | SOC Analyst | Offensive Security Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Florianópolis, SC 🇧🇷  
+🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-cezar-da-silva-b1510b179/)
+
+---
+
+## 🔥 My Stats
+
+![🔥 Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardocs2001&theme=dark&hide_border=true&background=000000&ring=FF4500&fire=FF4500)  
+![📊 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocs2001&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🛡️ Core Security Skills
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python) ![Wazuh](https://img.shields.io/badge/Wazuh-263238?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) ![Network](https://img.shields.io/badge/Network-00ADEF?style=for-the-badge)
+
+---
+
+> "_Security is a continuous battle; sharing knowledge is our greatest defense._"
+```
+
